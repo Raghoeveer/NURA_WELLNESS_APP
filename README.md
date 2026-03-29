@@ -172,6 +172,14 @@ cd frontend
 npm install
 ```
 
+## Configure environment
+
+Create a `.env` file inside `frontend/`:
+
+```env
+VITE_API_URL=http://127.0.0.1:8000
+```
+
 ---
 
 ## ▶️ Running Frontend
